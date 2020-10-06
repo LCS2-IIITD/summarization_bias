@@ -1,0 +1,5 @@
+Original implementation : https://github.com/sebastianGehrmann/bottom-up-summary
+ We use the port provided by OpenNMT 
+https://github.com/OpenNMT/OpenNMT-py/blob/master/docs/source/Summarization.md
+
+

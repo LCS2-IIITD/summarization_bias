@@ -1,0 +1,6 @@
+LexRank
+TextRank
+PG
+PG-MMR
+Transformar
+Hi-Map
