@@ -3,9 +3,7 @@
 Code for the paper: Corpora Evaluation and System Bias Detection in Multi-document Summarization
 
 
-CORPUS 
-
-
+CORPUS:
 For Pyramid evaluation through PyrEval:
 1 -> Write a python script to copy and paste files from your respective source directories to the appropriate folders in PyrEval(Documents - Raw/model and Ground truth summaries -      Raw/peer).
 2 -> In pyreval.py file set the below :
